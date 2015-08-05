@@ -1,4 +1,4 @@
-# Snake done for an intership
+# Snake done for an internship
 
 Liste des fonctionnalités :
 
