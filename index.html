@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Snake for Cassiop</title>
+    <link rel="stylesheet" href="assets/style.css" />
+    <script src="assets/js/vendor/phaser.min.js"></script>
+    <script src="assets/js/states/Game.js"></script>
+    <script src="assets/js/states/GameOver.js"></script>
+    <script src="assets/js/states/Options.js"></script>
+    <script src="assets/js/states/MainMenu.js"></script>
+    <script src="assets/js/app.js"></script>
+  </head>
+  <body>
+    <div id="gameContainer"></div>
+    <div class="center-box">
+      <p>Use the arrows of your keyboard to move your yoshi</p>
+      <p>You can move in the menus with the arrow <b>`up`</b> and <b>`down`</b>, change the values with <b>`left`</b> and <b>`right`</b></p>
+      <p>Press <b>Enter</b> to change menu (example : If you're in the option menu, go on <b>'Back'</b> and press <b>Enter</b>)</p>
+    </div>
+    <div class="text-center">
+      <p><img src="assets/images/hitbox.png" /></p>
+      <p>The body of Yoshi represents the hitbox ;)</p>
+    </div>
+    <div class="clearfix">
+      <div class="columns easy left">
+        <div class="clearfix">
+          <img src="assets/images/bonus.png" class="left" />
+          <h5 class="left">Easy</h5>
+          <img src="assets/images/malus.png" class="right" />
+        </div>
+        <hr />
+        <p><b>Max Number of bonus/malus :</b> 4</p>
+        <p><b>Goomba :</b> -5 points (50% chance of appearance)</p>
+        <p><b>Star :</b> 10 points (50% chance of appearance)</p>
+        <p><em>After takin 5 stars without Goomba, you have a 10-point bonus</em></p>
+      </div>
+      <div class="columns medium left">
+        <div class="clearfix">
+          <img src="assets/images/bonus.png" class="left" />
+          <h5 class="left">Medium</h5>
+          <img src="assets/images/malus.png" class="right" />
+        </div>
+        <hr />
+        <p><b>Max Number of bonus/malus :</b> 8</p>
+        <p><b>Goomba :</b> -5 points (40% chance of appearance)</p>
+        <p><b>Star :</b> 10 points (40% chance of appearance)</p>
+        <p><b>Fire :</b> It kills you (20% chance of appearance)</p>
+        <p><em>After takin 5 stars without Goomba, you have a 20-point bonus</em></p>
+        <p><b>There are walls !</b><em> One advice, avoid it or you will die !</em></p>
+      </div>
+      <div class="columns hard left">
+        <div class="clearfix">
+          <img src="assets/images/bonus.png" class="left" />
+          <h5 class="left">Hard</h5>
+          <img src="assets/images/malus.png" class="right" />
+        </div>
+        <hr />
+        <p><b>Max Number of bonus/malus :</b> 12</p>
+        <p><b>Goomba :</b> -5 points (40% chance of appearance)</p>
+        <p><b>Star :</b> 10 points (30% chance of appearance)</p>
+        <p><b>Fire :</b> It kills you (30% chance of appearance)</p>
+        <p><em>After takin 5 stars without Goomba, you have a 30-point bonus</em></p>
+        <p><b>There are MORE walls !</b><em> One advice, avoid it or you will die !</em></p>
+      </div>
+    </div>
+  </body>
+</html>

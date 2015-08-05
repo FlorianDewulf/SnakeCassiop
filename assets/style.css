@@ -1,0 +1,95 @@
+html {
+	height: 100vh;
+}
+
+body {
+	min-height: 100%;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+  width: 100%;
+}
+
+#gameContainer {
+  width: 90%;
+  height: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#gameContainer > canvas {
+  margin: auto;
+  border: 1px solid black;
+}
+
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+.clearfix {display: block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+
+p {
+	padding-left: 5px;
+}
+
+.columns {
+	width: 29%;
+	margin: 1%;
+	border: 1px solid black;
+	color: black;
+	padding: 5px;
+}
+
+.columns h5 {
+	width: 70%;
+	text-align: center;
+	font-size: 24px;
+	line-height: 24px;
+	text-decoration: underline;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: monospace;
+}
+
+.columns img {
+	width: 60px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.easy {
+	background: #86FFB1;
+}
+
+.medium {
+	background: #86B1FF;
+}
+
+.hard {
+	background: #FF86B1;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.center-box {
+	max-width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}

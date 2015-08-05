@@ -1,0 +1,170 @@
+{"frames": [
+  {
+  	"filename": "yoshiBottom0000",
+  	"frame": {"x":0,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiBottom0001",
+  	"frame": {"x":20,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiBottom0002",
+  	"frame": {"x":40,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiBottom0003",
+  	"frame": {"x":60,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiBottom0004",
+  	"frame": {"x":80,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiTop0000",
+  	"frame": {"x":0,"y":40,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiTop0001",
+  	"frame": {"x":20,"y":40,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiTop0002",
+  	"frame": {"x":40,"y":40,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiTop0003",
+  	"frame": {"x":60,"y":40,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiTop0004",
+  	"frame": {"x":80,"y":40,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  },
+  {
+  	"filename": "yoshiRight0000",
+  	"frame": {"x":0,"y":80,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiRight0001",
+  	"frame": {"x":27,"y":80,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiRight0002",
+  	"frame": {"x":54,"y":80,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiRight0003",
+  	"frame": {"x":81,"y":80,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiRight0004",
+  	"frame": {"x":108,"y":80,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiLeft0000",
+  	"frame": {"x":0,"y":120,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":-4,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiLeft0001",
+  	"frame": {"x":27,"y":120,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":-4,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiLeft0002",
+  	"frame": {"x":54,"y":120,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":-4,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiLeft0003",
+  	"frame": {"x":81,"y":120,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":-4,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiLeft0004",
+  	"frame": {"x":108,"y":120,"w":27,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":-4,"y":0,"w":27,"h":40},
+  	"sourceSize": {"w":27,"h":40}
+  },
+  {
+  	"filename": "yoshiEgg0000",
+  	"frame": {"x":100,"y":0,"w":20,"h":40},
+  	"rotated": false,
+  	"trimmed": true,
+  	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":40},
+  	"sourceSize": {"w":20,"h":40}
+  }
+]}
